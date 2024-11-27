@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Toán",
+      "quantity": "4"
+    },
+    {
+      "id": "2",
+      "title": "Lý",
+      "quantity": 3
+    },
+    {
+      "id": "1",
+      "title": "Hóa",
+      "quantity": "4"
+    },
+    {
+      "id": "1",
+      "title": "Văn",
+      "quantity": "4"
+    },
+    {
+      "id": "4f8c",
+      "title": "Anh ",
+      "quantity": "10"
+    }
+  ]
+}
